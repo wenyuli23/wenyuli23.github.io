@@ -6,6 +6,6 @@ require (
 	github.com/HugoBlox/hugo-blox-builder/modules/blox-bootstrap/v5 v5.9.7
 	github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-netlify v1.1.2-0.20231108141515-0478cf6921f9
 	github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-reveal v1.1.2
-  github.com/wowchemy/wowchemy-hugo-modules/wowchemy-cms/v5 v5.3.0
-	github.com/wowchemy/wowchemy-hugo-modules/wowchemy/v5 v5.3.0
+  github.com/wowchemy/wowchemy-hugo-modules/wowchemy-cms/v5
+	github.com/wowchemy/wowchemy-hugo-modules/wowchemy/v5
 )
