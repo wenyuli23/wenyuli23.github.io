@@ -122,6 +122,6 @@ social:
 highlight_name: true
 ---
 
-Hi, my name is Wenyu Li and I’m a first-year Ph.D. candidate in the Department of Computer Science and Engineering, Washington University in St. Louis (WashU). I am grateful for the privilege of being supervised by [Prof. Chen](https://www.cse.wustl.edu/~yixin.chen/) and [Prof. Tang](https://tang.eece.wustl.edu/). My main research area lies in developing novel ML and NLP tools for various bioinformatics tasks including AI-assisted biomanufacturing development and multiomics analysis.
+Hi, my name is Wenyu Li and I’m a first-year Ph.D. student in the Department of Computer Science and Engineering, Washington University in St. Louis (WashU). I am grateful for the privilege of being supervised by [Prof. Chen](https://www.cse.wustl.edu/~yixin.chen/) and [Prof. Tang](https://tang.eece.wustl.edu/). My main research area lies in developing novel ML and NLP tools for various bioinformatics tasks including AI-assisted biomanufacturing development and multiomics analysis.
 
 {style="text-align: justify;"}
