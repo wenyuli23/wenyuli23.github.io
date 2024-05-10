@@ -1,9 +1,9 @@
 ---
 # Display name
-title: 李文钰
+title: Wenyu Li
 
 # Name pronunciation (optional)
-name_pronunciation: 
+name_pronunciation: 文钰 李
 
 # Full name (for SEO)
 first_name: Wenyu
@@ -38,7 +38,7 @@ education:
   courses:
     - course: PhD in Computer Science
       institution: Washington Unviersity in St Louis
-      year: (in progress)
+      year: in progress
     - course: MS in Computer Science
       institution: Washington Unviersity in St Louis
       year: 2023
@@ -56,29 +56,34 @@ skills:
         percent: 80
         icon: python
         icon_pack: fab
-      - name: Data Science
+      - name: R
         description: ''
-        percent: 100
-        icon: chart-line
+        percent: 80
+        icon: r
         icon_pack: fas
       - name: SQL
         description: ''
         percent: 40
         icon: database
         icon_pack: fas
+      - name: Audacity
+        description: ''
+        percent: 70
+        icon: music
+        icon_pack: fas
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Music
+        description: 'Registered Artist on Spotify'
+        percent: 90
+        icon: spotify
+        icon_pack: fab
+      - name: Dogs
         description: ''
-        percent: 60
-        icon: person-hiking
-        icon_pack: fas
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
+        percent: 70
+        icon: dog
         icon_pack: fas
       - name: Photography
         description: ''
@@ -91,34 +96,32 @@ skills:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
+    icon_pack: ai
+    link: https://scholar.google.co.uk/citations?user=6bFANowAAAAJ&hl=en&inst=2230987035966559800
+  - icon: orcid
+    icon_pack: ai
+    link: https://orcid.org/0009-0009-0220-2259
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/wenyuli23
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/wenyu-li-5237bba0/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
     link: uploads/resume.pdf
+  - icon: envelope
+    icon_pack: fas
+    link: '/#contact'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hi, my name is Wenyu Li and I’m a first-year Ph.D. candidate in the Department of Computer Science and Engineering, Washington University in St. Louis (WashU). I am grateful for the privilege of being supervised by [Prof. Chen](https://www.cse.wustl.edu/~yixin.chen/) and [Prof. Tang](https://tang.eece.wustl.edu/). My main research area lies in developing novel ML and NLP tools for various bioinformatics tasks including AI-assisted biomanufacturing development and multiomics analysis.
+
 {style="text-align: justify;"}

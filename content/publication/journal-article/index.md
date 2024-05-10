@@ -1,13 +1,13 @@
 ---
-title: "An example journal article"
+title: "Generative Artificial Intelligence GPT-4 Accelerates Knowledge Mining and Machine Learning for Synthetic Biology"
 authors:
+- Zhengyang Xiao
 - admin
-- Robert Ford
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
-date: "2015-09-01T00:00:00Z"
-doi: ""
+date: "2023-09-08T00:00:00Z"
+doi: "doi.org/10.1021/acssynbio.3c00310"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -21,7 +21,8 @@ publication_types: ["article-journal"]
 publication: "*Journal of Source Themes, 1*(1)"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Knowledge mining from synthetic biology journal articles for machine learning (ML) applications is a labor-intensive process. The development of natural language processing (NLP) tools, such as GPT-4, can accelerate the extraction of published information related to microbial performance under complex strain engineering and bioreactor conditions. As a proof of concept, we proposed prompt engineering for a GPT-4 workflow pipeline to extract knowledge from 176 publications on two oleaginous yeasts (Yarrowia lipolytica and Rhodosporidium toruloides). After human intervention, the pipeline obtained a total of 2037 data instances. The structured data sets and feature selections enabled ML approaches (e.g., a random forest model) to predict Yarrowia fermentation titers with decent accuracy (R2 of 0.86 for unseen test data). Via transfer learning, the trained model could assess the production potential of the engineered nonconventional yeast, R. toruloides, for which there are fewer published reports. This work demonstrated the potential of generative artificial intelligence to streamline information extraction from research articles, thereby facilitating fermentation predictions and biomanufacturing development.
+
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -31,16 +32,16 @@ tags:
 featured: false
 
 # links:
-# - name: ""
+#- name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_pdf: https://pubs.acs.org/doi/epdf/10.1021/acssynbio.3c00310
+url_code: 'https://github.com/wenyuli23/GPT-4_SyntheticBiology'
 url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
+#url_poster: ''
+#url_project: ''
+#url_slides: ''
+#url_source: ''
+#url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
