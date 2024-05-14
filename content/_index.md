@@ -39,7 +39,7 @@ sections:
   - block: about.biography
     id: about
     content:
-      title: Biography
+      title: Hi, I'm Wenyu Li!
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
   - block: skills
@@ -171,8 +171,8 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Deep Learning
-          tag: Deep Learning
+        - name: PhD projects
+          tag: PhD projects
         - name: Other
           tag: Demo
     design:
@@ -191,7 +191,7 @@ sections:
         featured_only: false
     design:
       columns: '2'
-      view: card
+      view: compact
   # - block: collection
   #   content:
   #     title: Recent Publications
@@ -267,7 +267,7 @@ sections:
           id:
         netlify:
           # Enable CAPTCHA challenge to reduce spam?
-          captcha: false
+          captcha: true
     design:
       columns: '2'
 ---
