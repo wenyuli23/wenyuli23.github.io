@@ -66,6 +66,11 @@ skills:
         percent: 40
         icon: database
         icon_pack: fas
+      - name: Game development
+        description: 'C# & Unity'
+        percent: 70
+        icon: gamepad
+        icon_pack: fas
       - name: Audacity
         description: ''
         percent: 70
