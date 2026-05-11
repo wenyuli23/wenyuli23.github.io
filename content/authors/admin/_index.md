@@ -118,7 +118,7 @@ social:
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/resume.pdf
+    link: uploads/Wenyu_Li_CV_Curve.pdf
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
